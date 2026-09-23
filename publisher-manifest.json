@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ac66b486869feca2fd6a459f",
+  "owner": "mkf8vh8",
+  "repo": "page-089af60bfb307421b5826e74",
+  "title": "BYTEDOG",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "089af60bfb307421b5826e74",
+      "a": "BYTEDOG",
+      "b": "2027最新官网",
+      "entity": "BYTEDOG",
+      "brand": "BYTEDOG",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c7125f620ac315ad0490e8f182296b939b731070b222828c32455bc23b5d8d7c",
+      "content": {
+        "primary_entity": "BYTEDOG",
+        "keyword1": "BYTEDOG",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型挑选客户端：手机、桌面与路由各有对应版本，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定 BYTEDOG 套餐，完成订阅导入即可开始加速。",
+          "AI_CLOSING_TITLE": "选好套餐，连上 BYTEDOG",
+          "AI_DESCRIPTION": "，围绕海外网络加速场景提供按月与按年两种订阅方式，基础版适合轻量浏览，旗舰版兼顾流媒体与游戏加速，团队版面向多设备协作。套餐内标明流量额度、同时在线设备数与节点池类型，便于按需匹配，减少选错档位的概率。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度理解 BYTEDOG 的配置差异。",
+          "AI_FEATURES_TITLE": "套餐、设备与周期",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版每月 300GB、团队版每月 1000GB，按日常用量挑档位即可。",
+          "AI_FEATURE_TEXT_2": "同时在线设备数从 3 台到 20 台，手机、平板与电脑混用时可对照套餐上限选择。",
+          "AI_FEATURE_TEXT_3": "月付适合短期试用，年付折算更低，长期使用可按年订阅锁定价格。",
+          "AI_FEATURE_TITLE_1": "流量档位清晰",
+          "AI_FEATURE_TITLE_2": "设备数量可选",
+          "AI_FEATURE_TITLE_3": "付费周期灵活",
+          "AI_GUIDE_INTRO": "先确定用途与设备规模，再核对适配要求，最后按照客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "BYTEDOG 面向需要稳定访问海外网络的用户，提供按流量与设备数量划分的订阅套餐。基础版、旗舰版与团队版分别对应轻量使用、流媒体与游戏加速、多设备协作场景，月付与年付两种周期可选。",
+          "AI_HERO_SUBTITLE": "按设备与流量选择订阅套餐",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备与定制路由",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月；按年付分别为 ¥150、¥350、¥850。旗舰版带 IPLC 专线与全节点流媒体解锁，团队版提供 VIP 高带宽节点与专属客户经理。选择时先看设备数量上限，再看每月流量额度是否覆盖日常使用。",
+          "AI_PLANS_TITLE": "对比三档订阅套餐",
+          "AI_STEP_TEXT_1": "确认自己的主要用途是网页浏览、流媒体播放还是游戏加速，据此锁定流量与节点类型需求。",
+          "AI_STEP_TEXT_2": "核对常用设备的系统版本与同时在线数量，确保所选套餐的设备上限满足日常使用。",
+          "AI_STEP_TEXT_3": "在对应客户端中依照文档导入订阅链接，完成节点选择后开始使用。",
+          "AI_STEP_TITLE_1": "确定使用场景",
+          "AI_STEP_TITLE_2": "核对设备适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "BYTEDOG 海外加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，适合手机加电脑的轻度使用；旗舰版提升到 5 台，团队版可支持 20 台设备同时在线，按人数和终端数量选择即可。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。日常浏览与视频用量较大时，建议旗舰版起步；多设备共享流量选团队版更从容。",
+          "AI_FAQ_ANSWER_3": "桌面端可按系统选择常用订阅客户端，移动端也有对应工具。不同设备的适配情况以客户端说明为准，选好客户端后导入订阅即可使用。",
+          "AI_FAQ_ANSWER_4": "订阅周期按自然月计算，也可以按年付。按年付的基础版为 ¥150/年，旗舰版为 ¥350/年，团队版为 ¥850/年，长期使用更划算。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化与 7x24 优先工单支持；团队版提供 VIP 高带宽节点、企业定制路由和专属客户经理，可按使用场景升级。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐分别支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "每月流量额度怎么选比较合适？",
+          "AI_FAQ_QUESTION_3": "哪些客户端可以搭配 BYTEDOG 使用？",
+          "AI_FAQ_QUESTION_4": "订阅周期和按年付价格是怎样的？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版相比基础版多了哪些权益？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--jiasula-rk1l99re58n.com",
+    "host": "xn--jiasula-rk1l99re58n.com"
+  },
+  "file_hashes": {
+    "index.html": "6c53eda7e46927e56cbb286afffa3031c64f04b53e3c59cd865d94d3c7b6d99f",
+    "sitemap.xml": "dca8ec282bcacf6062e763f44b0fc07d0436a70161c1dbe8146824d72f1e2e56",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e739a60479046d5b243f745131ec43ce9925b59a32be94c5e277c383a75f86d2",
+    "robots.txt": "f6014a0823bcb19fc5acbf6a3229cf522fa6de264ee4f1d75726dc4b63a59735",
+    "63baea7986d6674365930b8cb2e5bdb1.txt": "528c2cf0f0b6ec2fa96211605e9148ab2d5fd9d43f445ed4a26c450a442ff857"
+  },
+  "revision": "db1715ed1e9992c4a8fa09c66a536ee8f8e1e6d9e1bbf6c1fb2fc956e6b05568"
+}
